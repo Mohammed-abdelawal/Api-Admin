@@ -2,7 +2,7 @@ django==2.2.3
 django-appconf==1.0.3
 django-crispy-forms==1.7.2
 django-image-cropping==1.2.0
-djangorestframework==3.10.2
+djangorestframework==3.11.2
 easy-thumbnails==2.6
 html5lib==1.0.1
 Pillow==6.1.0
